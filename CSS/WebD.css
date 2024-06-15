@@ -5,6 +5,7 @@ body{
     font-family: Helvetica, Arial, Verdana;
     font-size: 20px;
     letter-spacing: 0.5px;
+    text-align: justify;
   }
     .logotipo{
         width: 150px;
